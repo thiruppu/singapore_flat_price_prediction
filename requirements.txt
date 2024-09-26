@@ -1,0 +1,10 @@
+streamlit
+streamlit_option_menu
+pandas
+streamlit-extras
+plotly-express
+scikit-learn
+numpy
+streamlit_lottie
+json
+pickle
