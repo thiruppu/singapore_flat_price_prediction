@@ -6,5 +6,4 @@ plotly-express
 scikit-learn
 numpy
 streamlit_lottie
-json
 pickle
